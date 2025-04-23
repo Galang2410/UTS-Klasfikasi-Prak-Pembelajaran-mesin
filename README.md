@@ -1,5 +1,6 @@
 # UTS-Klasfikasi-Prak-Pembelajaran-mesin
 UTS klasifikasi buah (Naive Bayes) - citrus.csv
+
 Nama : Galang Dwiwana Thabrani
 NIM : 1227050048
 
@@ -48,4 +49,5 @@ Contoh hasil (dapat berbeda-beda tergantung pembagian data):
 - Akurasi: **~92%**
 - Confusion Matrix:
 [[919  69]
+
  [ 91 921]]
