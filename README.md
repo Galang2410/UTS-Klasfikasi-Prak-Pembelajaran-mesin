@@ -2,6 +2,7 @@
 UTS klasifikasi buah (Naive Bayes) - citrus.csv
 
 Nama : Galang Dwiwana Thabrani
+
 NIM : 1227050048
 
 ## 🗂️ Dataset
@@ -48,6 +49,7 @@ Menggunakan library Python seperti `pandas`, `sklearn`, dan `seaborn` untuk anal
 Contoh hasil (dapat berbeda-beda tergantung pembagian data):
 - Akurasi: **~92%**
 - Confusion Matrix:
+  
 [[919  69]
 
  [ 91 921]]
