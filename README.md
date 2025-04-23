@@ -1,9 +1,4 @@
-# UTS-Klasfikasi-Prak-Pembelajaran-mesin
-UTS klasifikasi buah (Naive Bayes) - citrus.csv
-
-Nama : Galang Dwiwana Thabrani
-
-NIM : 1227050048
+# 🍊 Klasifikasi Jeruk vs Anggur Menggunakan Naive Bayes
 
 ## 🗂️ Dataset
 Dataset yang digunakan diambil dari Kaggle: [Oranges vs Grapefruit](https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit).  
@@ -49,7 +44,5 @@ Menggunakan library Python seperti `pandas`, `sklearn`, dan `seaborn` untuk anal
 Contoh hasil (dapat berbeda-beda tergantung pembagian data):
 - Akurasi: **~92%**
 - Confusion Matrix:
-  
 [[919  69]
-
  [ 91 921]]
